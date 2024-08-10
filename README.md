@@ -21,12 +21,12 @@ Run the Script: Execute the script in your terminal or command prompt.
 python shopping_cart.py
 Follow the Prompts: The script will guide you through the process. You can:
 
-`View Products`: Type "report" to see available products and prices.
-`Access Options`: Type "options" to view or modify your shopping cart.
-`Add Items`: Choose products to add and specify quantities.
-`View Cart`: See the items currently in your cart.
-`Remove Items`: Select and remove items from your cart.
-`Exit`: Type "Exit" to close the program.
+View Products: Type "report" to see available products and prices.
+Access Options: Type "options" to view or modify your shopping cart.
+Add Items: Choose products to add and specify quantities.
+View Cart: See the items currently in your cart.
+Remove Items: Select and remove items from your cart.
+Exit: Type "Exit" to close the program.
 Welcome to the shopping cart
 
 Example
